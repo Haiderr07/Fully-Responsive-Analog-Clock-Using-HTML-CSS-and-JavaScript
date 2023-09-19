@@ -1,3 +1,0 @@
-hour = 30*h + m/2;
-minute = 6*minute;
-second = 6*second;
